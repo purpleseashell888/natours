@@ -54,5 +54,8 @@
     "nodemon": "^2.0.22",
     "prettier": "^3.0.0",
     "stripe": "^7.0.0"
+  },
+  "engines": {
+    "node": "^10"
   }
 }
